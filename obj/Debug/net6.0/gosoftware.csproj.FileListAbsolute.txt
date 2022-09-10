@@ -1,0 +1,15 @@
+C:\desenvolvimento.projetos\gosoftware\bin\Debug\net6.0\gosoftware.exe
+C:\desenvolvimento.projetos\gosoftware\bin\Debug\net6.0\gosoftware.deps.json
+C:\desenvolvimento.projetos\gosoftware\bin\Debug\net6.0\gosoftware.runtimeconfig.json
+C:\desenvolvimento.projetos\gosoftware\bin\Debug\net6.0\gosoftware.dll
+C:\desenvolvimento.projetos\gosoftware\bin\Debug\net6.0\gosoftware.pdb
+C:\desenvolvimento.projetos\gosoftware\obj\Debug\net6.0\gosoftware.csproj.AssemblyReference.cache
+C:\desenvolvimento.projetos\gosoftware\obj\Debug\net6.0\gosoftware.GeneratedMSBuildEditorConfig.editorconfig
+C:\desenvolvimento.projetos\gosoftware\obj\Debug\net6.0\gosoftware.AssemblyInfoInputs.cache
+C:\desenvolvimento.projetos\gosoftware\obj\Debug\net6.0\gosoftware.AssemblyInfo.cs
+C:\desenvolvimento.projetos\gosoftware\obj\Debug\net6.0\gosoftware.csproj.CoreCompileInputs.cache
+C:\desenvolvimento.projetos\gosoftware\obj\Debug\net6.0\gosoftware.dll
+C:\desenvolvimento.projetos\gosoftware\obj\Debug\net6.0\refint\gosoftware.dll
+C:\desenvolvimento.projetos\gosoftware\obj\Debug\net6.0\gosoftware.pdb
+C:\desenvolvimento.projetos\gosoftware\obj\Debug\net6.0\gosoftware.genruntimeconfig.cache
+C:\desenvolvimento.projetos\gosoftware\obj\Debug\net6.0\ref\gosoftware.dll
